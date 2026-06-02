@@ -1,0 +1,68 @@
+{
+  "replace": false,
+  "comment": "Spectrum EMC integration for ProjectE (KURONAMI) — foundational coverage. Seeds gemstones/ores/key resources; vanilla recipes cascade. Spectrum's custom machine recipes are not auto-derivable, so deep machine-only content is not covered in v0.1. Stateful gear/trinkets have no EMC.",
+  "values": {
+    "before": [
+      {
+        "type": "projecte:item",
+        "emc_value": 32,
+        "id": "spectrum:topaz_shard"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 48,
+        "id": "spectrum:citrine_shard"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 64,
+        "id": "spectrum:onyx_shard"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 128,
+        "id": "spectrum:moonstone_shard"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 64,
+        "id": "spectrum:raw_azurite"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 96,
+        "id": "spectrum:raw_malachite"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 128,
+        "id": "spectrum:shimmerstone_gem"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 256,
+        "id": "spectrum:paltaeria_fragments"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 256,
+        "id": "spectrum:stratine_fragments"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 512,
+        "id": "spectrum:bedrock_dust"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 384,
+        "id": "spectrum:neolith"
+      },
+      {
+        "type": "projecte:item",
+        "emc_value": 64,
+        "id": "spectrum:quitoxic_powder"
+      }
+    ]
+  }
+}

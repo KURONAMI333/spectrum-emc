@@ -1,0 +1,43 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+issueTrackerURL="https://github.com/KURONAMI333/spectrum-emc/issues"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="${mod_authors}"
+logoFile="spectrum_emc.png"
+displayURL="https://github.com/KURONAMI333/spectrum-emc"
+description='''
+${mod_description}
+'''
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="projecte"
+    type="required"
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="spectrum"
+    type="required"
+    versionRange="[1.11.0,)"
+    ordering="AFTER"
+    side="BOTH"
