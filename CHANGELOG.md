@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.1.1
+
+- No gameplay changes. Repackaged for CurseForge distribution; the EMC data is identical to v0.1.0.
+
 ## v0.1.0
 
 Initial release — foundational coverage.
