@@ -17,4 +17,4 @@ It adds no items, blocks, or recipes — only EMC data. Values apply on world lo
 
 EMC values are a considered first pass; balance and coverage feedback is welcome on the issue tracker.
 
-MIT. Spectrum is by DaFuqs & contributors (LGPL-3.0); ProjectE by sinkillerj & contributors. Independent integration, not affiliated with either. Source and issues: https://github.com/KURONAMI333/spectrum-emc
+All Rights Reserved (free to put in any modpack, no permission or credit needed). Spectrum is by DaFuqs & contributors (LGPL-3.0); ProjectE by sinkillerj & contributors. Independent integration, not affiliated with either. Source and issues: https://github.com/KURONAMI333/spectrum-emc
