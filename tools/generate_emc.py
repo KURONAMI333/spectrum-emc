@@ -42,6 +42,12 @@ BEFORE = {
     "bedrock_dust": 512,  # special "Shattered Bedrock"
     "neolith": 384,  # late spirit-instiller resource
     "quitoxic_powder": 64,
+    # 増殖経路を塞ぐための上書き。jade_vine_petal_block は minecraft:leaves タグ経由で
+    # ProjectE 既定の 1 を持つが、堆肥化確率が 1.0 なので骨粉1個あたりの期待投入は 7 個 =
+    # 7 EMC で、骨粉 48 EMC を正の期待値で生む。vanilla 最安の同型経路（crimson_roots・
+    # 期待 10.23）より安いので、playbook §5 の「vanilla により強い経路があるなら記録に留める」
+    # には当たらず、値を上げて塞ぐ側。損益分岐は 48/7 = 6.86（2026-09-06 emc_lint 実測）。
+    "jade_vine_petal_block": 8,
 }
 
 

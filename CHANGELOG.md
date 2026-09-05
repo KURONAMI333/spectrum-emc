@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.1.2
+
+- Gave the Jade Vine Petal Block an EMC of 8. It composts with certainty, so at the leaves default of 1 it produced bone meal at a profit, and cheaper than anything in vanilla. Nothing else changes; the block is the only item in Spectrum where that route beat the vanilla one.
+
 ## v0.1.1
 
 - No gameplay changes. Repackaged for CurseForge distribution; the EMC data is identical to v0.1.0.
