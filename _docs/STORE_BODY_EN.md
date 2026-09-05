@@ -12,7 +12,7 @@ It adds no items, blocks, or recipes — only EMC data. Values apply on world lo
 - [ProjectE](https://modrinth.com/mod/projecte) — required
 - [Spectrum](https://modrinth.com/mod/spectrum) — required
 
-EMC values are a considered first pass; balance and coverage feedback is welcome on the issue tracker.
+EMC values are a considered first pass; balance and coverage feedback is welcome.
 
 Bugs and questions: comment on the CurseForge page, or DM @kuronami333 on X.
 
